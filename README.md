@@ -1,4 +1,4 @@
-Image Segmentation using Pytorch following U-Net Architecture
+## Image Segmentation using Pytorch following U-Net Architecture
 
 We will be usinng *cifar10*
 
